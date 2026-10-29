@@ -27,7 +27,7 @@ The goal of this project is to turn Nike sales data into actionable business ins
 - Converting business data into meaningful insights
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/amannbhoii014)
+- **LinkedIn:** (https://www.linkedin.com/in/amannbhoii014)
 
 👨‍💻 *Exploring Data. Discovering Insights. Driving Decisions.*
 
